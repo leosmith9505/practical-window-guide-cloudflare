@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://practical-window-guide-cloudflare.pages.dev/sitemap.xml
